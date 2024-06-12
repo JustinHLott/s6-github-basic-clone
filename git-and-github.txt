@@ -1,3 +1,10 @@
+GIT
 1. git is not the same as github
 2. git log shows you your commits
 3. git branch -d will delete a branch
+
+GITHUB
+1. github is the most popular hosting platform
+2. when you use the -u option it links a branch with github
+3. github helps people collaborate
+
