@@ -1,0 +1,3 @@
+1. github is the most popular hosting platform
+2. when you use the -u option it links a branch with github
+3. github helps people collaborate
